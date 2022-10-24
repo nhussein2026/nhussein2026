@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nasser Hussein
 - 👀 I’m interested in web Development.
-- 🌱 I’m currently learning Full Stack Web
+- 🌱 I’m currently learning Full Stack Web development.
 - 📫 You can find at @hussein2026
 
 <!---
