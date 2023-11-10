@@ -35,9 +35,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nhussein2026/count.svg?"  />
-</div>
 
 ###
 
