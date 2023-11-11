@@ -29,15 +29,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhussein2026&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="280" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhussein2026&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=prussian&hide_border=true&order=2" height="277" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhussein2026&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhussein2026&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=prussian&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nhussein2026/nhussein2026/output/snake.svg" alt="Snake animation" />
 
 ###
 
